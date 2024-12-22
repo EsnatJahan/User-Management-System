@@ -6,4 +6,4 @@ The User Management System allows admins to create, update, and delete user acco
 | ![Image 1](UserManagementimg/Img0.jpg)  ![Image 2](UserManagementimg/Img2u.jpg) | ![Image7](UserManagementimg/Img1u.jpg) ![Image3](UserManagementimg/Img3u.jpg) |  
 |---------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | ![Image 1](UserManagementimg/Img4u.jpg)  ![Image 2](UserManagementimg/Img5U.png) ![Image3](UserManagementimg/img6u.jpg) | ![Image7](UserManagementimg/Img1.jpg) ![Image3](UserManagementimg/Img2.jpg) |  
-| ![Image 1](UserManagementimg/Img2.jpg) ![Image3](UserManagementimg/Img4.jpg)  | ![Image3](UserManagementimg/Img3.jpg) ![Image3](UserManagementimg/Img5.jpg) |  
+|![Image3](UserManagementimg/Img4.jpg)  | ![Image3](UserManagementimg/Img3.jpg) ![Image3](UserManagementimg/Img5.jpg) |  
